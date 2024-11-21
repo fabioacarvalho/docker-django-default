@@ -1,1 +1,1 @@
-# docker-django-default
+# Default files to setup a Django and Docker project
